@@ -4,6 +4,6 @@ Course Uptake on DataViz
 
 General Overview of Course Uptake Since Inception
 
-Peak sign-up occured around the 28th of February
+Peak sign-up occured around the beginning of March
 
 Interest in the course continued a week to wrap-up
